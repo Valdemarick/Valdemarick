@@ -2,7 +2,7 @@
 
 ## I'm a beginner software engineer!
 - 🐱‍💻 Currently working on the web application FridgeManager which consists of 2 parts: server - [FridgeManager-Server] and client - [FridgeManager-Client] 	.
-- 🚀 Currently learning ASP.NET, SQL, cloud development.
+- 🚀 Currently learning JavaScript and React, developing ASP.NET, SQL, Git skills.
 
 <br/>
 
